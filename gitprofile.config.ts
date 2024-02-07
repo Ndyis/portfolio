@@ -103,13 +103,7 @@ const CONFIG = {
       to: 'February 2024',
       companyLink: '',
     },
-    {
-      company: '',
-      position: '',
-      from: '',
-      to: '',
-      companyLink: '',
-    },
+    
   ],
   certifications: [
     {
@@ -132,12 +126,7 @@ const CONFIG = {
       from: '2021',
       to: '2025',
     },
-    {
-      institution: '',
-      degree: '',
-      from: '',
-      to: '',
-    },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
@@ -146,7 +135,7 @@ const CONFIG = {
    // limit: 10, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-CVKMNCK0ZW', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
@@ -154,7 +143,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'Dim',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -221,7 +210,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/Ndyis/portfolio"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Portfolio</a> and ❤️`,
 
   enablePWA: true,
 };
