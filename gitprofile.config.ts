@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Emergency Transport Dispatch System',
           description:
-            'comming soon',
+            'We have developed an Emergency Transport System using Microsoft technologies. Please take a look, and leave your feedback or suggestions.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://media.licdn.com/dms/image/D4D12AQFbSxD35SQgfg/article-cover_image-shrink_720_1280/0/1692728953508?e=1713398400&v=beta&t=kwcFn7f1Gn8IJ6lvxNLdN6oAUjg1SHdaLXAQcKWu9Jc',
+          link: 'https://www.linkedin.com/pulse/emergency-transport-dispatch-system-kelvin-sikamoi/?trackingId=0Yr7%2B3MrTR2HNI8IOMrICA%3D%3D',
         },
         {
           title: 'Project Name',
