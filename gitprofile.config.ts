@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'We have developed an Emergency Transport System using Microsoft technologies. Please take a look, and leave your feedback or suggestions.',
           imageUrl:
-            'https://media.licdn.com/dms/image/D4D12AQFbSxD35SQgfg/article-cover_image-shrink_720_1280/0/1692728953508?e=1713398400&v=beta&t=kwcFn7f1Gn8IJ6lvxNLdN6oAUjg1SHdaLXAQcKWu9Jc',
+            'https://www.rdacorp.com/hs-fs/hubfs/Microsoft-Power-Platform.jpg?width=2033&height=1530&name=Microsoft-Power-Platform.jpg',
           link: 'https://www.linkedin.com/pulse/emergency-transport-dispatch-system-kelvin-sikamoi/?trackingId=0Yr7%2B3MrTR2HNI8IOMrICA%3D%3D',
         },
         {
