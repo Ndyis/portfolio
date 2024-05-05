@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://www.linkedin.com/pulse/emergency-transport-dispatch-system-kelvin-sikamoi/?trackingId=0Yr7%2B3MrTR2HNI8IOMrICA%3D%3D',
         },
         {
-          title: 'Project Name',
+          title: 'Active Directory Lab',
           description:
             'comming soon.',
           imageUrl:
@@ -112,12 +112,19 @@ const CONFIG = {
       year: 'February 2023',
       link: 'https://www.credly.com/badges/60657217-2558-4f53-8488-a34a2a4c04a7/public_url',
     },
+    {
+      name: 'Certified in Cybersecurity',
+      body: 'ISC2',
+      year: 'May 2023',
+      link: 'https://drive.google.com/file/d/1Lshjd6Yw6ulu0haFIgPaIqRszDF6ueT6/view',
+    },
       {
       name: 'Microsoft Certified: Azure Fundamentals',
       body: 'Microsoft',
       year: 'June 2023',
       link: 'https://www.credly.com/badges/e0a48ea3-8d76-4413-96d3-9b84b9eb6c63/public_url',
     },
+    
   ],
   educations: [
     {
