@@ -134,7 +134,7 @@ const CONFIG = {
       name: 'Zero Trust Certified Associate (ZTCA)',
       body: 'Zscaler',
       year: 'March 2025',
-      link: 'https://www.credly.com/badges/1b1a3b2f-a8eb-4422-8478-d3772d8aa29c/public_url',
+      link: 'http://verify.skilljar.com/c/3gyxxqok3qco',
     },
     
   ],
