@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Isaac Ndayishimiye',
+    title: 'Isaac Ndayishimiye',
     description: '',
     imageURL: '',
   },
@@ -100,7 +100,7 @@ const CONFIG = {
       company: 'WHTA Networks',
       position: 'Cybersecurity attachee',
       from: 'January 2024',
-      to: 'February 2024',
+      to: 'March 2024',
       companyLink: '',
     },
     
@@ -123,6 +123,18 @@ const CONFIG = {
       body: 'Microsoft',
       year: 'June 2023',
       link: 'https://www.credly.com/badges/e0a48ea3-8d76-4413-96d3-9b84b9eb6c63/public_url',
+    },
+    {
+      name: 'Ethical Hacker',
+      body: 'CISCO',
+      year: 'July 2024',
+      link: 'https://www.credly.com/badges/1b1a3b2f-a8eb-4422-8478-d3772d8aa29c/public_url',
+    },
+    {
+      name: 'Zero Trust Certified Associate (ZTCA)',
+      body: 'Zscaler',
+      year: 'March 2025',
+      link: 'https://www.credly.com/badges/1b1a3b2f-a8eb-4422-8478-d3772d8aa29c/public_url',
     },
     
   ],
