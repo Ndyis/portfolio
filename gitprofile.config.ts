@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://www.linkedin.com/pulse/emergency-transport-dispatch-system-kelvin-sikamoi/?trackingId=0Yr7%2B3MrTR2HNI8IOMrICA%3D%3D',
         },
         {
-          title: 'Active Directory Lab',
+          title: 'CYBERMAPPING',
           description:
             'comming soon.',
           imageUrl:
